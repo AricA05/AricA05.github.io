@@ -134,6 +134,13 @@
   width:35px;
 }
 
+.green-wave{
+  width:100%;
+  position:absolute;
+  display:block;
+}
+
+
 section {
   display: flex;
   flex-direction: column;
