@@ -29,12 +29,12 @@
 	border-radius: 10px;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	box-shadow: 0 0 40px 2px rgb(255, 193, 51);
+	box-shadow: 0 0 40px 2px rgb(217, 179, 255);
 }
 
 .feature-box{
 	padding: 30px;
-  color:#D2B4DE;
+  color:#d9b3ff;
 }
 
 .feature-box h1{
