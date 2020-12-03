@@ -139,18 +139,18 @@
   width:100%;
   position:absolute;
   display:block;
-  top:11%;
+  top:9%;
   z-index:-1;
-  opacity:1.0;
+  opacity:0.5;
 }
 
 .green-waveno2{
   width:100%;
   position:absolute;
   display:block;
-  top:55%;
+  top:70%;
   z-index:-1;
-  opacity:1.0;
+  opacity:0.5;
 }
 
 section {
