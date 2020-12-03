@@ -136,14 +136,22 @@
 }
 
 .green-wave{
-  width:-20%;
+  width:100%;
   position:absolute;
   display:block;
-  top:15%;
+  top:11%;
   z-index:-1;
   opacity:1.0;
 }
 
+.green-waveno2{
+  width:100%;
+  position:absolute;
+  display:block;
+  top:55%;
+  z-index:-1;
+  opacity:1.0;
+}
 
 section {
   display: flex;
