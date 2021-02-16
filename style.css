@@ -89,7 +89,7 @@
 
 @keyframes tennisball{
   0%{
-    transform: translateY(0);
+    transform: translateY(0);/*vh=viewport height, translate y uses y axis*/
     opacity: 0;
   }
   50%{
